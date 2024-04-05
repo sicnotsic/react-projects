@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/Task-Management"
+		},
+		{
+			"path": "../../../../xampp1/htdocs/dashboard"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "dashboard"
+	}
+}
